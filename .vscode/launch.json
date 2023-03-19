@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MxCreation1Example",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxCreation1Example",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxCreation2Example",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxCreation2Example",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxCreation3WithAppHdrExample",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxCreation3WithAppHdrExample",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxDateTimeAdaptersMarshal",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxDateTimeAdaptersMarshal",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxModificationAddingUETR",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxModificationAddingUETR",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxParseKnownMessageType",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxParseKnownMessageType",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxParseMessageWithHeader",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxParseMessageWithHeader",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxParseMessageWithHeader2",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxParseMessageWithHeader2",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxParseUnknownMessageType",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxParseUnknownMessageType",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxParseWithCache",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxParseWithCache",
+            "projectName": "prowide-iso20022-examples"
+        },
+        {
+            "type": "java",
+            "name": "MxToJsonExample",
+            "request": "launch",
+            "mainClass": "com.prowidesoftware.swift.samples.MxToJsonExample",
+            "projectName": "prowide-iso20022-examples"
+        }
+    ]
+}
